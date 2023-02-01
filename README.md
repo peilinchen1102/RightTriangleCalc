@@ -1,7 +1,13 @@
-## StatCalculator
-A program that will calculate and display the mean, median, min, max, range, and sample standard deviation
+## Right Triangle Calculator
+A program that will implement right triangle trigonometry.
 
-Input: Comma separated list of numbers
-Output: Mean, Median, Min, Max, Range, and Sample Standard Deviation
+#Function:
+- Any two sides and the remaining side and both other angles calculated
+- Any one side and one angle, then the other sides and angles are calculated
+- A generic graphical representation of the triangle
 
+Output:
+- Side lengths
+- Angle measures
 
+![image](https://user-images.githubusercontent.com/74634276/215929608-42a4d67d-4993-43ec-a191-d0961a56fbb5.png)
